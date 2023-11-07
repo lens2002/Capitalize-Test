@@ -1,0 +1,15 @@
+{
+  "type": "module",
+  "name": "js-testing-cap",
+  "version": "1.0.0",
+  "description": "",
+  "main": "capitalize.test.js",
+  "directories": {
+    "test": "tests"
+  },
+  "scripts": {
+    "test": "node capitalize.test.js"
+  },
+  "author": "",
+  "license": "ISC"
+}
